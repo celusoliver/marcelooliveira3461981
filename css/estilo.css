@@ -1,0 +1,85 @@
+/*Desenvolvido por Marcelo Oliveira - RU 3461981 */
+<style>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #0000ff;
+}
+
+li {
+    
+    float:none;
+   
+}
+
+li a {
+    font:bold;
+    font: 1em sans-serif;
+    display: inline;
+    color: white;
+    padding: 8px 16xp;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+li {display:inline;}
+a {
+    color:#a52a2a;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    text-align: center;
+    color:#ffffff;
+    background-color:  #000000;
+}
+
+div {
+    align-self: center;
+    align-items: center;
+    width: 80%;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #615757;
+}
+
+.formatacao {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 1em sans-serif;
+}
+
+.titulo {
+    font: 1em sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+
+.formulario {
+    border-radius: 10px;
+    border-color: gray;
+    width: 200px;
+}
+
+.botao {
+    border-radius: 8px;
+    border-color: gray;
+    width: 70px;
+}
+
+</style>
